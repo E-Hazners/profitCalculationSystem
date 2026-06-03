@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+profit_system.db
+*.xlsx
+.vscode/
